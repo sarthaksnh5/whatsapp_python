@@ -103,7 +103,7 @@ print(response)
 
 ## Documentation
 
-For detailed documentation, including advanced usage and API references, please visit the [official documentation](https://github.com/your-repo/whatsapp_python).
+For detailed documentation, including advanced usage and API references, please visit the [official documentation](https://https://github.com/sarthaksnh5/whatsapp_python).
 
 ## Contributing
 
@@ -115,4 +115,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue on the [GitHub repository](https://github.com/your-repo/whatsapp_python) or contact us at support@example.com.
+If you encounter any issues or have questions, feel free to open an issue on the [GitHub repository](https://https://github.com/sarthaksnh5/whatsapp_python) or contact us at sarthaksnh5@gmail.com.
